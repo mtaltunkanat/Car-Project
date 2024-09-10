@@ -18,4 +18,4 @@ class Deneme(models.Model):
         return self.text
 
 
-#deneme
+#deneme test
